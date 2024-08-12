@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Fatigue Testprogramm BA Veitl", "BA V1\Fatigue Testprogramm BA Veitl.csproj", "{B21184A3-2089-4CA0-B5F1-F4A64D9A5330}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B21184A3-2089-4CA0-B5F1-F4A64D9A5330}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B21184A3-2089-4CA0-B5F1-F4A64D9A5330}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B21184A3-2089-4CA0-B5F1-F4A64D9A5330}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B21184A3-2089-4CA0-B5F1-F4A64D9A5330}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AB7A31C6-5D0D-4F5F-B7A4-EF1A25E4AAE7}
+	EndGlobalSection
+EndGlobal
